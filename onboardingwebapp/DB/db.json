@@ -1,0 +1,106 @@
+{
+  "international_docs": {
+    "Domicile": true,
+    "Birth certificate": true,
+    "Marksheets": true,
+    "Police clearance": true,
+    "Passport": true,
+    "Declaration": true
+  },
+  "domestic_docs": {
+    "Domicile": true,
+    "Birth certificate": true,
+    "Marksheets": true,
+    "Police clearance": false,
+    "Passport": false,
+    "Declaration": true
+  },
+  "users": [
+    {
+      "name": "fd",
+      "email": "sdad",
+      "password": "sdsa",
+      "id": 1
+    },
+    {
+      "name": "cvxv",
+      "email": "cxv",
+      "password": "xcvx",
+      "id": 2
+    },
+    {
+      "name": "sadsa",
+      "email": "sda",
+      "password": "sadas",
+      "id": 3
+    },
+    {
+      "name": "dsada",
+      "email": "sda",
+      "password": "dasd",
+      "id": 4
+    },
+    {
+      "name": "Vikrant",
+      "email": "vikrantkhajuria81@gmail.com",
+      "password": "Hello@123",
+      "id": 5
+    }
+  ],
+  "Student": [
+    {
+      "name": "vikrants khajuriasadad",
+      "Category": "Domestic",
+      "Document": [
+        "java",
+        "C++"
+      ],
+      "DOB": "2023-10-17",
+      "FatherName": "sdad",
+      "MotherName": "aas",
+      "LastScore": "2",
+      "id": 1
+    },
+    {
+      "name": "dsd",
+      "Category": "International",
+      "Document": [
+        "java"
+      ],
+      "DOB": "2023-10-14",
+      "FatherName": "dsad",
+      "MotherName": "dsa",
+      "LastScore": "4",
+      "id": 3
+    },
+    {
+      "name": "wdwqsdasdsada",
+      "Category": "Domestic",
+      "Document": [
+        "Domicile",
+        "Birth certificate",
+        "Marksheets",
+        "on",
+        "Police clearance"
+      ],
+      "DOB": "2023-10-13",
+      "FatherName": "dssdad",
+      "MotherName": "sdsad",
+      "LastScore": 1,
+      "id": 8
+    },
+    {
+      "name": "vk",
+      "Category": "International",
+      "Document": [
+        "on",
+        "Marksheets"
+      ],
+      "DOB": "2023-10-09",
+      "FatherName": "dfsd",
+      "MotherName": "fsdvds",
+      "LastScore": 2,
+      "id": 9
+    }
+  ]
+}
